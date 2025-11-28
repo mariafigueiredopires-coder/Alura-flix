@@ -1,0 +1,36 @@
+body{           
+background-color: bisque(255,188,234);
+    color: blue;
+font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+margin: opx;
+}
+
+
+header{ 
+         font-size: 50px;
+          text-align: center;
+         border:double 5px crimson (248,178,214;)
+      /   margin: 30px;  /
+    padding: 30px;
+    color 
+}
+
+h1{ 
+     font-size: 30px;
+}
+
+p{ 
+    font-size: 20px;
+}
+
+   section{ 
+           background-color: black(243,11,116,0.527);
+           padding-bottom: 80px;
+           padding-top: 80px;
+           display: flex;
+           justify-content: center;
+ }
+
+ .chamada-texto{ 
+    margin-righ: 10%;
+ }
