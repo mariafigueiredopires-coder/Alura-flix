@@ -22,12 +22,12 @@ p{
     font-size: 20px;
 }
 
-   section{ 
-           background-color: black(243,11,116,0.527);
-           padding-bottom: 80px;
-           padding-top: 80px;
-           display: flex;
-           justify-content: center;
+section{
+background-color: rgb(32, 130, 42);
+padding-bottom: 80px;
+padding-top: 80px;
+display: flex;
+justify-content: center;
  }
 
  .chamada-texto{ 
