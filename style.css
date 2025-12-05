@@ -1,10 +1,9 @@
 body{           
-background-color: bisque(255,188,234);
-    color: blue;
-font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
-margin: opx;
+ background-color: rgb(91, 28, 62);
+    color: rgb(45, 150, 141);
+    font-family: "Epunda Slab", serif;
+    margin: 0px;
 }
-
 
 header{
     font-size: 50px;
@@ -23,7 +22,7 @@ p{
 }
 
 section{
-background-color: rgb(32, 130, 42);
+background-color: rgb(96, 58, 177);
 padding-bottom: 80px;
 padding-top: 80px;
 display: flex;
